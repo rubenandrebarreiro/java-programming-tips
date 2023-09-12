@@ -1,0 +1,8 @@
+name: java-programming-tips
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - ipywidgets
+  - beakerx
